@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sistema-Presenca.props" />
+</Project>
